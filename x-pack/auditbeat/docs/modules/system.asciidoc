@@ -18,6 +18,9 @@ or stops).
 The module is fully implemented for Linux on x86. Currently, the `socket` module is not available on ARM. Some datasets are also available
 for macOS (Darwin) and Windows.
 
+NOTE: This module is not available in the open-source Apache 2.0 licensed
+distribution of Auditbeat.
+
 [float]
 === How it works
 
